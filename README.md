@@ -1,4 +1,6 @@
 # The-Future-of-Networking-An-Analysis-of-Software-Defined-Networks-and-Their-Expanding-Influence
+### Keywords:Software-Defined Networking (SDN); Internet of Things (IoT); 5G Technology; Programmable Networks; Cloud Computing
+#### Abstract
 #### Software-Defined Networking (SDN) is increasingly recognized as a transformative technology in the field of network management and operations. 
 #### By decoupling the control plane from the data plane, SDN provides unprecedented programmability, flexibility, and control, enabling more agile and efficient network configurations.
 #### This paper explores the fundamental mechanisms of SDN, emphasizing its role in facilitating dynamic network environments and enhancing network performance.
